@@ -3,4 +3,4 @@ void main()
 {
 printf("hello");
 }
-print("walnuts")
+print("english walnuts")
